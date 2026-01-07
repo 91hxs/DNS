@@ -1,0 +1,53 @@
+#!name=ByteDance DNS Override
+#!desc=Force ByteDance related domains to use ByteDance Public DNS (180.184.1.1)
+#!author=落行
+#!homepage=
+#!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ByteDance.png
+
+[DNS]
+# 公司与基础设施
+DOMAIN-SUFFIX,bytedance.com,180.184.1.1
+DOMAIN-SUFFIX,bytecdn.cn,180.184.1.1
+DOMAIN-SUFFIX,bytetag.com,180.184.1.1
+DOMAIN-SUFFIX,volcengine.com,180.184.1.1
+
+# 抖音 / TikTok
+DOMAIN-SUFFIX,douyin.com,180.184.1.1
+DOMAIN-SUFFIX,iesdouyin.com,180.184.1.1
+DOMAIN-SUFFIX,douyinpic.com,180.184.1.1
+DOMAIN-SUFFIX,douyinstatic.com,180.184.1.1
+DOMAIN-SUFFIX,douyincdn.com,180.184.1.1
+DOMAIN-SUFFIX,douyinvod.com,180.184.1.1
+DOMAIN-SUFFIX,tiktok.com,180.184.1.1
+DOMAIN-SUFFIX,tiktokv.com,180.184.1.1
+DOMAIN-SUFFIX,tiktokcdn.com,180.184.1.1
+
+# 今日头条 / 内容生态
+DOMAIN-SUFFIX,toutiao.com,180.184.1.1
+DOMAIN-SUFFIX,toutiaoimg.com,180.184.1.1
+DOMAIN-SUFFIX,toutiaoimg.cn,180.184.1.1
+DOMAIN-SUFFIX,toutiaovod.com,180.184.1.1
+DOMAIN-SUFFIX,toutiaocloud.com,180.184.1.1
+
+# 西瓜 / 火山
+DOMAIN-SUFFIX,ixigua.com,180.184.1.1
+DOMAIN-SUFFIX,ixiguavideo.com,180.184.1.1
+DOMAIN-SUFFIX,huoshan.com,180.184.1.1
+
+# SDK / 通用服务
+DOMAIN-SUFFIX,snssdk.com,180.184.1.1
+DOMAIN-SUFFIX,bytegoofy.com,180.184.1.1
+DOMAIN-SUFFIX,ibyteimg.com,180.184.1.1
+DOMAIN-SUFFIX,ibytedtos.com,180.184.1.1
+
+# 飞书 / Lark
+DOMAIN-SUFFIX,feishu.cn,180.184.1.1
+DOMAIN-SUFFIX,feishu.net,180.184.1.1
+DOMAIN-SUFFIX,feishucdn.com,180.184.1.1
+DOMAIN-SUFFIX,lark-content.com,180.184.1.1
+
+# 其他字节系
+DOMAIN-SUFFIX,wukong.com,180.184.1.1
+DOMAIN-SUFFIX,tuchong.com,180.184.1.1
+DOMAIN-SUFFIX,doubao.com,180.184.1.1
+DOMAIN-SUFFIX,coze.cn,180.184.1.1
