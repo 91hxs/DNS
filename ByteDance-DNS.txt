@@ -1,0 +1,52 @@
+#!name=ByteDance
+#!author=落行
+#!homepage=
+#!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ByteDance.png
+
+
+# 公司与基础设施
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,bytecdn.cn
+DOMAIN-SUFFIX,bytetag.com
+DOMAIN-SUFFIX,volcengine.com
+
+# 抖音 / TikTok
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,iesdouyin.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,tiktokcdn.com
+
+# 今日头条 / 内容生态
+DOMAIN-SUFFIX,toutiao.com
+DOMAIN-SUFFIX,toutiaoimg.com
+DOMAIN-SUFFIX,toutiaoimg.cn
+DOMAIN-SUFFIX,toutiaovod.com
+DOMAIN-SUFFIX,toutiaocloud.com
+
+# 西瓜 / 火山
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,ixiguavideo.com
+DOMAIN-SUFFIX,huoshan.com
+
+# SDK / 通用服务
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,bytegoofy.com
+DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN-SUFFIX,ibytedtos.com
+
+# 飞书 / Lark
+DOMAIN-SUFFIX,feishu.cn
+DOMAIN-SUFFIX,feishu.net
+DOMAIN-SUFFIX,feishucdn.com
+DOMAIN-SUFFIX,lark-content.com
+
+# 其他字节系
+DOMAIN-SUFFIX,wukong.com
+DOMAIN-SUFFIX,tuchong.com
+DOMAIN-SUFFIX,doubao.com
+DOMAIN-SUFFIX,coze.cn
