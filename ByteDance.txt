@@ -1,0 +1,52 @@
+#!name=ByteDance
+#!author=落行
+#!homepage=
+#!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ByteDance.png
+
+
+# 公司与基础设施
+bytedance.com
+bytecdn.cn
+bytetag.com
+volcengine.com
+
+# 抖音 / TikTok
+douyin.com
+iesdouyin.com
+douyinpic.com
+douyinstatic.com
+douyincdn.com
+douyinvod.com
+tiktok.com
+tiktokv.com
+tiktokcdn.com
+
+# 今日头条 / 内容生态
+toutiao.com
+toutiaoimg.com
+toutiaoimg.cn
+toutiaovod.com
+toutiaocloud.com
+
+# 西瓜 / 火山
+ixigua.com
+ixiguavideo.com
+huoshan.com
+
+# SDK / 通用服务
+snssdk.com
+bytegoofy.com
+ibyteimg.com
+ibytedtos.com
+
+# 飞书 / Lark
+feishu.cn
+feishu.net
+feishucdn.com
+lark-content.com
+
+# 其他字节系
+wukong.com
+tuchong.com
+doubao.com
+coze.cn
