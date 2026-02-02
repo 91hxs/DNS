@@ -1,3 +1,8 @@
+#!name=Tencent
+#!author=落行
+#!homepage=
+#!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ByteDance.png
+
 tencent.com
 qq.com
 wechat.com
